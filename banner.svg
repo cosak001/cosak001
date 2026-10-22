@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 430" width="1600" height="430" role="img" aria-label="Chike Osakwe — Data Science and Data Analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1426"/>
+      <stop offset="65%" stop-color="#10253D"/>
+      <stop offset="100%" stop-color="#173C4D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5FE0CB"/>
+      <stop offset="100%" stop-color="#B9EEC7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14354B" stop-opacity="0.86"/>
+      <stop offset="100%" stop-color="#18455C" stop-opacity="0.72"/>
+    </linearGradient>
+    <pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1.15" fill="#9BD6D0" opacity="0.14"/>
+    </pattern>
+    <clipPath id="round"><rect x="0" y="0" width="1600" height="430" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1600" height="430" fill="url(#bg)"/>
+    <rect width="1600" height="430" fill="url(#dots)"/>
+    <path d="M 1130 -95 L 1745 120 L 1512 600 L 1080 490 Z" fill="#5FE0CB" opacity="0.042"/>
+    <path d="M 1265 -65 L 1640 62 L 1455 507" fill="none" stroke="#66D9CE" stroke-width="2" opacity="0.21"/>
+    <rect x="66" y="66" width="6" height="302" rx="3" fill="url(#accent)"/>
+    <text x="112" y="112" fill="#88D9D0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+    <text x="108" y="212" fill="#F6FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="87" font-weight="800" letter-spacing="-1.5">CHIKE OSAKWE</text>
+    <rect x="112" y="241" width="440" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="112" y="294" fill="#D4E6F1" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="600">DATA SCIENCE  /  DATA ANALYTICS</text>
+    <text x="112" y="340" fill="#A8C5D1" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="1">PYTHON  •  SQL  •  R  •  TABLEAU</text>
+    <g transform="translate(1040 70)">
+      <rect x="0" y="0" width="492" height="288" rx="22" fill="url(#panel)" stroke="#74CCCD" stroke-opacity="0.28" stroke-width="2"/>
+      <text x="29" y="38" fill="#A5C9D5" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">FROM DATA TO DECISIONS</text>
+      <path d="M 46 207 C 108 205, 120 128, 178 157 S 278 203, 326 113 S 412 115, 452 64" fill="none" stroke="#5FE0CB" stroke-width="5" stroke-linecap="round"/>
+      <path d="M 46 207 C 108 205, 120 128, 178 157 S 278 203, 326 113 S 412 115, 452 64 L452 234 L46 234 Z" fill="#5FE0CB" opacity="0.075"/>
+      <g fill="#B8ECCB" stroke="#10344B" stroke-width="5">
+        <circle cx="46" cy="207" r="10"/><circle cx="178" cy="157" r="10"/><circle cx="326" cy="113" r="10"/><circle cx="452" cy="64" r="10"/>
+      </g>
+      <g fill="#8FB8C6" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.3">
+        <text x="33" y="261">COLLECT</text><text x="153" y="261">VALIDATE</text><text x="289" y="261">ANALYZE</text><text x="397" y="261">EXPLAIN</text>
+      </g>
+      <g stroke="#4B8D9E" stroke-opacity="0.28"><path d="M46 78 H454"/><path d="M46 128 H454"/><path d="M46 178 H454"/><path d="M46 228 H454"/></g>
+    </g>
+    <text x="1532" y="401" text-anchor="end" fill="#6F9BAA" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">MSIT · CAL STATE FULLERTON</text>
+  </g>
+</svg>
